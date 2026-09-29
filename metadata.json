@@ -1,0 +1,6 @@
+{
+  "name": "Nike Vault - Gestionnaire de Collection Sneakers",
+  "description": "Application pour gérer et valoriser votre collection de souliers Nike : suivi des paires, estimation de la cote, historique de portées, wishlist et statistiques de collectionneur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
